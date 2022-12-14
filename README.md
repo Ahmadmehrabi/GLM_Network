@@ -9,3 +9,5 @@ where $X^i(x)$ are arbitrary base functions and $\theta_i$ are free parameters
 ### For a simple toy data see example.ipynb
 
 ### For applying the method on the recent Hubble data, see hub.ipynb
+
+#### Make sure you have installed torch
